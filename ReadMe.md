@@ -1,6 +1,6 @@
 ## Hello World! I'm James Sandy 👋
 
-I am a passionate Data Engineer, dedicated to creating data infrastructure, managing pipelines, and drawing insights from data. I constantly educate myself on the latest algorithms, techniques, and strategies that improve data processing in terms of efficacy, efficiency, and affordability. I write technical articles related to data engineering, data science, and machine learning.
+I am a passionate Data and Machine learning Engineer, dedicated to creating data infrastructure, managing pipelines, and drawing insights from data. I constantly educate myself on the latest algorithms, techniques, and strategies that improve data processing in terms of efficacy, efficiency, and affordability. I write technical articles related to data engineering, data science, and machine learning.
 ## 📘 About Me
 
 <img src="sus.png" height="200" align="right">
@@ -8,7 +8,7 @@ I am a passionate Data Engineer, dedicated to creating data infrastructure, mana
 - 💻 I’m currently working as a Data Engineer
 - ☁️ I'm interested in Data Engineering, Machine learning and Cloud Computing 
 - 🛠️ I’m currently developing an AI tool
-- 📂 I’m looking to contribute to open source software
+- 📂 I’m looking to contribute to open-source software
 - ☕ Ask me about philosophy, afrobeats, and cooking
 - 🌎 The world is yours for the taking
 #
